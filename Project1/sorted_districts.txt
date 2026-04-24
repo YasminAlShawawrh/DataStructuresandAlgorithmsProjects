@@ -1,0 +1,11 @@
+gaza District, Population=70000
+Jabalia, 20000
+Beit_Hanoon, 50000
+hebron District, Population=140000
+Halhul, 40000
+Dura, 100000
+jenin District, Population=130000
+Jaba, 7000
+Yabad, 31000
+Jenin, 92000
+asd District, Population=0
