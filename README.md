@@ -70,9 +70,3 @@ Each project focuses on applying a specific data structure or algorithm to solve
 
 ---
 
-## File Structure
-/Project1
-/Project2
-/Project3
-/Project4
-README.md
